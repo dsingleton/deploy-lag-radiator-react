@@ -1,4 +1,4 @@
-# Deploy Lag Radiator (React)
+# Deploy Lag Radiator (React) [![Build Status](https://travis-ci.org/dsingleton/deploy-lag-radiator-react.svg?branch=master)](https://travis-ci.org/dsingleton/deploy-lag-radiator-react)
 
 A reimplementation of my '[deploy-lag-radiator](https://github.com/dsingleton/deploy-lag-radiator)' information radiator, using [React](https://facebook.github.io/react/).
 
